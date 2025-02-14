@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="ca">
+<meta charset="UTF-8">
+<title>Martí Pardo XYZ | Sobre mi</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="estils.css">
+<body>
+<div>
+ <h1>Sobre mi</h1>
+</div>
+<p>Bla bla </p>
+</body>
+</html> 
